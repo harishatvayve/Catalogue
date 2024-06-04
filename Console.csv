@@ -1,0 +1,5 @@
+Part Name,Quantity,Width,Length,Height,Mass,Volume,Material,Part Description,Area,Density
+Part 1,241,16,145.75,130,2,23.32,ds,I should update this data,304.06,0.0008
+Part 2,221,38,116,115,23,221,Change 2,This will be overwritten,405.92,0.0008
+Part 3,1,23,103,34.504,4,583,Also Changed,c,166.68,0.00106
+Part 4,1,21,110,23.59,3,592,f,da,901.65,231.21
